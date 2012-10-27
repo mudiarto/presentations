@@ -1,0 +1,3 @@
+task :default do
+  `slideshow -t impress.js -o out impress.js.text`
+end
